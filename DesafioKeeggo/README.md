@@ -1,5 +1,5 @@
 ## ***Automação Web***
-Projeto criado como um desafio para automatizar plataforma web proposto pela empresa Inmetrics.
+Projeto criado como um desafio para automatizar plataforma web proposto pela empresa Keeggo.
 <p> <br />
 
 
@@ -25,7 +25,7 @@ Projeto criado como um desafio para automatizar plataforma web proposto pela emp
 
 1. Clonar o repositório
 2. Importar o projeto para a IDE
-3. Executar a classe Runner (DesafioInmetrics > src/test/java > br.com.web.runners > Runner.java)
+3. Executar a classe Runner (DesafioKeeggo > src/test/java > br.com.web.runners > Runner.java)
 <p> <br />
 
 ### ***Evidências e Relatório***
